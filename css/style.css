@@ -229,7 +229,7 @@ header {
 
 #navbar nav a {
   display: inline-block;
-  width: 16.67%;
+  width: 16.667%;
   margin: 0;
   padding: 22px 0;
   text-transform: uppercase;
@@ -315,7 +315,9 @@ header {
 
 /*////////// LOGO //////////*/
 
-
+#logo {
+  padding: 84px 0 0;
+}
 
 #logo h1 {
   font-family: 'Clicker Script', cursive;
